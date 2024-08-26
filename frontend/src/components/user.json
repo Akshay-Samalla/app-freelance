@@ -1,0 +1,58 @@
+[
+  {
+    "uid"         :1,
+    "username"    : "user1",
+    "email"       : "user1@gmail.com",
+    "phoneNumber ": "12345",
+    "password    ": "qwer",
+    "skills      ": "python|java|javasctip|zig|shap|cpp",
+    "githubRepo  ": "github.com/user1",
+    "linkedin    ": "linkedin.com/user1",
+    "bestProjects": "link1|link2|link3",
+    "competitions": "competetion1|competetion2",
+    "description ": "hey how are you",
+    "userType    ": "dev"
+  },
+  {
+    "uid": 2,
+    "username": "user1",
+    "email": "user2@gmail.com",
+    "phoneNumber ": "12345",
+    "password    ": "qwer",
+    "skills      ": "python|java|javasctip|zig|shap|cpp",
+    "githubRepo  ": "github.com/user1",
+    "linkedin    ": "linkedin.com/user1",
+    "bestProjects": "link1|link2|link3",
+    "competitions": "competetion1|competetion2",
+    "description ": "hey how are you",
+    "userType    ": "dev"
+  },
+  {
+    "uid": 3,
+    "username": "user1",
+    "email": "user3@gmail.com",
+    "phoneNumber ": "12345",
+    "password    ": "qwer",
+    "skills      ": "python|java|javasctip|zig|shap|cpp",
+    "githubRepo  ": "github.com/user1",
+    "linkedin    ": "linkedin.com/user1",
+    "bestProjects": "link1|link2|link3",
+    "competitions": "competetion1|competetion2",
+    "description ": "hey how are you",
+    "userType    ": "dev"
+  },
+  {
+    "uid": 4,
+    "username": "user1",
+    "email": "user1@gmail.com",
+    "phoneNumber ": "12345",
+    "password    ": "qwer",
+    "skills      ": "python|java|javasctip|zig|shap|cpp",
+    "githubRepo  ": "github.com/user1",
+    "linkedin    ": "linkedin.com/user1",
+    "bestProjects": "link1|link2|link3",
+    "competitions": "competetion1|competetion2",
+    "description ": "hey how are you",
+    "userType    ": "dev"
+  }
+]
