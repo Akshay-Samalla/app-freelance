@@ -2,6 +2,7 @@
 This is a MERN stack app 
 this project focus on basics of mongodb nodejs and react 
 Note: this project uses only three react hooks "useState" & "useEffect" & "usenavigate"
+(i have done in nodejs)
 (NO AUTHENTICATION)
 for styling tailwind css is used 
 This is a freelance recruiter and developer showcase app 
